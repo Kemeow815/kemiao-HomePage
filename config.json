@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "克喵爱吃卤面",
+		"description": "Author:克喵爱吃卤面,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "克喵爱吃卤面",
+		"subtitle": "愿你看清一切真相后，依旧热爱你的家人和朋友。",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "克喵爱吃卤面",
+		"signature": "Student & Resource sharer & Blog writer",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -21,7 +21,7 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://boke.kemeow.top",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:me@kemiaosw.top",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/Kemeow815",
 				"icon": "github",
 				"text": "Github"
 			}
